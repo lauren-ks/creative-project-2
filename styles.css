@@ -1,0 +1,65 @@
+.main { 
+  background: url("images/home-bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.signup { 
+  background: url("images/home-bg3.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.menubar-index {
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  }
+
+.menubar-signup {
+    background-image: linear-gradient(rgba(176, 176, 176, .35), rgba(255, 255, 255, 1));
+  }
+
+.menubar {
+    background-image: linear-gradient(rgba(176, 176, 176, 1), rgba(255, 255, 255, 0));
+  }
+
+.card-link.signin-link {
+  font-size: 12px;
+  color: darkgrey;
+}
+.card-link.signin-link:hover {
+  color: grey;
+}
+p.card-text {
+  padding-top: 16px;
+  padding-bottom: 20px;
+  font-size: 12px;
+}
+
+.text-link {
+  color: lightblue;
+}
+
+img.userProfile {
+  margin: auto;
+  width: 60px;
+  height: 60px;
+}
+
+img.pfp {
+  width: 40px;
+  height: 40px;
+}
+
+.userList {
+  font-size: 12px;
+}
+
+.link {
+   color:black;
+   text-decoration: none; 
+   background-color: none;
+}
